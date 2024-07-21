@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eidandreammer
+- 👀 I’m interested in web application development
+- 🌱 I’m currently learning various technologies such as node.js and react
+- 😄 Pronouns: velop
+- ⚡ Fun fact: I’m a simple guy
